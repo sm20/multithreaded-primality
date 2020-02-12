@@ -1,11 +1,16 @@
 FUNCTIONALITY
 
 Takes an array of many integers, some large, some extremely small, and computes the sum of the array. 
-
+  
+  
+INSTRUCTIONS  
+  
 compile with:  
     $ g++ count.cpp -O2 -o count -lpthread  
+  
 Original code adapted from Dr. Pavol Federl.  
-This code adds multithreaded functionality to an otherwise single threaded program.INSTRUCTIONS
+This code adds multithreaded functionality to an otherwise single threaded program.  
+
 
 Run:  
 	  ./a.out  
