@@ -1,6 +1,6 @@
 FUNCTIONALITY
 
-Takes an array of many integers, some large, some extremely small, and computes the sum of the array. 
+Takes an array of many integers, some large, some extremely small, and determines which are prime.
   
   
 INSTRUCTIONS  
